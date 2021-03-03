@@ -1,0 +1,2 @@
+# colorized
+Another Color Component
